@@ -20,7 +20,7 @@ Pastikan kamu sudah menginstal **Python 3.8** atau versi yang lebih baru.
 
 1.  **Clone Repositori Ini**
     ```bash
-    git clone [https://github.com/irgidev/gta-hand-controller.git](https://github.com/irgidev/gta-hand-controller.git)
+    git clone https://github.com/irgidev/gta-hand-controller.git
     cd gta-hand-controller
     ```
 
